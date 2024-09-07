@@ -1,0 +1,1 @@
+from brownie import network, Lottery, config
